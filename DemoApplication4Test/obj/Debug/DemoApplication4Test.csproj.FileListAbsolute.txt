@@ -1,0 +1,6 @@
+E:\Practice\DemoApplication4\DemoApplication4Test\bin\Debug\DemoApplication4Test.dll
+E:\Practice\DemoApplication4\DemoApplication4Test\bin\Debug\DemoApplication4Test.pdb
+E:\Practice\DemoApplication4\DemoApplication4Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Practice\DemoApplication4\DemoApplication4Test\obj\Debug\DemoApplication4Test.csprojResolveAssemblyReference.cache
+E:\Practice\DemoApplication4\DemoApplication4Test\obj\Debug\DemoApplication4Test.dll
+E:\Practice\DemoApplication4\DemoApplication4Test\obj\Debug\DemoApplication4Test.pdb
